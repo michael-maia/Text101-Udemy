@@ -25,18 +25,13 @@ public class AdventureGame : MonoBehaviour {
     private void ManageState() //esta função vai servir para que o jogador escolha uma das opções dadas durante as histórias
     {
         var nextStates = state.GetNextStates();
-        if(Input.GetKeyDown(KeyCode.Alpha1))
+        for (int index = 0; index < nextStates.Length; index++) //Este for define quantas teclas podemos apertar de acordo com o número de escolhas no jogo
         {
-            state = nextStates[0];
-        }
-        else if(Input.GetKeyDown(KeyCode.Alpha2))
-        {
-            state = nextStates[1];
-        }
-        else if (Input.GetKeyDown(KeyCode.Alpha3))
-        {
-            state = nextStates[2];
-        }
+            if (Input.GetKeyDown(KeyCode.Alpha1 + index)) //Tecla número 1 + index (1 + 1 = tecla número 2)
+            {
+                state = nextStates[index];
+            }
+        }        
         textComponent.text = state.GetStateStory(); //serve para atualizar o o texto de acordo com a State que escolhemos
     }
 }
