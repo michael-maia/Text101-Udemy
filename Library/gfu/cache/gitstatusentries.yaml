@@ -1,0 +1,875 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-01-13T17:26:32.728-02:00
+  initializedAtString: 2019-01-13T17:26:32.728-02:00
+  entries:
+  - path: .gitignore
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\AdventureGame.cs
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scripts\AdventureGame.cs
+    projectPath: Assets\Scripts\AdventureGame.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\AdventureGame.cs.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scripts\AdventureGame.cs.meta
+    projectPath: Assets\Scripts\AdventureGame.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\State.cs
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scripts\State.cs
+    projectPath: Assets\Scripts\State.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\State.cs.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\Scripts\State.cs.meta
+    projectPath: Assets\Scripts\State.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States.meta
+    projectPath: Assets\States.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Game Over.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Game Over.meta
+    projectPath: Assets\States\Game Over.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Game Over\S1. Onboard But Only Just.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Game Over\S1.
+      Onboard But Only Just.asset
+    projectPath: Assets\States\Game Over\S1. Onboard But Only Just.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Game Over\S1. Onboard But Only Just.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Game Over\S1.
+      Onboard But Only Just.asset.meta
+    projectPath: Assets\States\Game Over\S1. Onboard But Only Just.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Game Over\S2. Onboard With Supplies.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Game Over\S2.
+      Onboard With Supplies.asset
+    projectPath: Assets\States\Game Over\S2. Onboard With Supplies.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Game Over\S2. Onboard With Supplies.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Game Over\S2.
+      Onboard With Supplies.asset.meta
+    projectPath: Assets\States\Game Over\S2. Onboard With Supplies.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Game Over\X1. Game Over.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Game Over\X1.
+      Game Over.asset
+    projectPath: Assets\States\Game Over\X1. Game Over.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Game Over\X1. Game Over.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Game Over\X1.
+      Game Over.asset.meta
+    projectPath: Assets\States\Game Over\X1. Game Over.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar.meta
+    projectPath: Assets\States\Hangar.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A1. Outside Hangar.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A1.
+      Outside Hangar.asset
+    projectPath: Assets\States\Hangar\A1. Outside Hangar.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A1. Outside Hangar.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A1.
+      Outside Hangar.asset.meta
+    projectPath: Assets\States\Hangar\A1. Outside Hangar.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A10. Narrow Escape.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A10.
+      Narrow Escape.asset
+    projectPath: Assets\States\Hangar\A10. Narrow Escape.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A10. Narrow Escape.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A10.
+      Narrow Escape.asset.meta
+    projectPath: Assets\States\Hangar\A10. Narrow Escape.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A11. Diversion.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A11.
+      Diversion.asset
+    projectPath: Assets\States\Hangar\A11. Diversion.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A11. Diversion.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A11.
+      Diversion.asset.meta
+    projectPath: Assets\States\Hangar\A11. Diversion.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A2. In A Cell.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A2.
+      In A Cell.asset
+    projectPath: Assets\States\Hangar\A2. In A Cell.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A2. In A Cell.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A2.
+      In A Cell.asset.meta
+    projectPath: Assets\States\Hangar\A2. In A Cell.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A3. Emergency Exit.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A3.
+      Emergency Exit.asset
+    projectPath: Assets\States\Hangar\A3. Emergency Exit.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A3. Emergency Exit.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A3.
+      Emergency Exit.asset.meta
+    projectPath: Assets\States\Hangar\A3. Emergency Exit.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A4. Picking Lock.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A4.
+      Picking Lock.asset
+    projectPath: Assets\States\Hangar\A4. Picking Lock.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A4. Picking Lock.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A4.
+      Picking Lock.asset.meta
+    projectPath: Assets\States\Hangar\A4. Picking Lock.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A5. Lock Smashing.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A5.
+      Lock Smashing.asset
+    projectPath: Assets\States\Hangar\A5. Lock Smashing.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A5. Lock Smashing.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A5.
+      Lock Smashing.asset.meta
+    projectPath: Assets\States\Hangar\A5. Lock Smashing.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A6. Dark Room.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A6.
+      Dark Room.asset
+    projectPath: Assets\States\Hangar\A6. Dark Room.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A6. Dark Room.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A6.
+      Dark Room.asset.meta
+    projectPath: Assets\States\Hangar\A6. Dark Room.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A7. The Long Way Round.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A7.
+      The Long Way Round.asset
+    projectPath: Assets\States\Hangar\A7. The Long Way Round.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A7. The Long Way Round.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A7.
+      The Long Way Round.asset.meta
+    projectPath: Assets\States\Hangar\A7. The Long Way Round.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A8. Evesdropping.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A8.
+      Evesdropping.asset
+    projectPath: Assets\States\Hangar\A8. Evesdropping.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A8. Evesdropping.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A8.
+      Evesdropping.asset.meta
+    projectPath: Assets\States\Hangar\A8. Evesdropping.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A9. Pressure Build Up.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A9.
+      Pressure Build Up.asset
+    projectPath: Assets\States\Hangar\A9. Pressure Build Up.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\A9. Pressure Build Up.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\A9.
+      Pressure Build Up.asset.meta
+    projectPath: Assets\States\Hangar\A9. Pressure Build Up.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B1. Opening Door.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B1.
+      Opening Door.asset
+    projectPath: Assets\States\Hangar\B1. Opening Door.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B1. Opening Door.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B1.
+      Opening Door.asset.meta
+    projectPath: Assets\States\Hangar\B1. Opening Door.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B2. Booby Trap.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B2.
+      Booby Trap.asset
+    projectPath: Assets\States\Hangar\B2. Booby Trap.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B2. Booby Trap.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B2.
+      Booby Trap.asset.meta
+    projectPath: Assets\States\Hangar\B2. Booby Trap.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B3. Escape.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B3.
+      Escape.asset
+    projectPath: Assets\States\Hangar\B3. Escape.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B3. Escape.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B3.
+      Escape.asset.meta
+    projectPath: Assets\States\Hangar\B3. Escape.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B4. Friendly Fire.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B4.
+      Friendly Fire.asset
+    projectPath: Assets\States\Hangar\B4. Friendly Fire.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B4. Friendly Fire.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B4.
+      Friendly Fire.asset.meta
+    projectPath: Assets\States\Hangar\B4. Friendly Fire.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B5. Waiting.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B5.
+      Waiting.asset
+    projectPath: Assets\States\Hangar\B5. Waiting.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B5. Waiting.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B5.
+      Waiting.asset.meta
+    projectPath: Assets\States\Hangar\B5. Waiting.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B6. Running.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B6.
+      Running.asset
+    projectPath: Assets\States\Hangar\B6. Running.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Hangar\B6. Running.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Hangar\B6.
+      Running.asset.meta
+    projectPath: Assets\States\Hangar\B6. Running.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Intro.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Intro.meta
+    projectPath: Assets\States\Intro.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Intro\A0. Introduction.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Intro\A0.
+      Introduction.asset
+    projectPath: Assets\States\Intro\A0. Introduction.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\States\Intro\A0. Introduction.asset.meta
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Assets\States\Intro\A0.
+      Introduction.asset.meta
+    projectPath: Assets\States\Intro\A0. Introduction.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Packages\manifest.json
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0

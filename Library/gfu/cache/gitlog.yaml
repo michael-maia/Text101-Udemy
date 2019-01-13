@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-01-12T16:19:44.021-02:00
+  initializedAtString: 2019-01-12T16:19:44.021-02:00
+  log:
+  - commitID: da36b8882143a065ff859dc9bdc7f8721f2b8b4c
+    mergeA: 
+    mergeB: 
+    authorName: Michael Maia
+    authorEmail: 32021280+michael-maia@users.noreply.github.com
+    commitEmail: 32021280+michael-maia@users.noreply.github.com
+    commitName: Michael Maia
+    summary: Add .gitignore and .gitattributes.
+    description: Add .gitignore and .gitattributes.
+    timeString: 2019-01-12T15:48:40.000-02:00
+    commitTimeString: 2019-01-12T15:48:40.000-02:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: D:\-- PROJETOS\Unity Projects\Text101\Text101\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
